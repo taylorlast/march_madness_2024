@@ -9,10 +9,9 @@
 
 ### Git usage
 - To clone repo, run ```git clone https://github.com/taylorlast/march_madness_2024```
-- Run ```git pull`` to get the latest updates.
+- Run ```git pull``` to get the latest updates.
 - Create a branch using ```git checkout -b "<>"``` (replace <> with your branch name)
 - Add notebooks as you want
 - When push code back, save all work and then run ```git add .```
 - Then run ```git commit -m ""``` (place whatever message you want in the quotes)
-- Then run ```git push``` (If it give you an upstream command to copy, copy that and run it
-)
+- Then run ```git push``` (If it give you an upstream command to copy, copy that and run it)
