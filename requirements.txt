@@ -10,6 +10,7 @@ xgboost==2.0.3
 numpy==1.26.4
 scikit-learn==1.2.2
 pandas==2.2.0
+multiprocess==0.70.16
 
 # ADD A PACKAGE ABOVE FROM THE LIST BELOW WHEN YOU NEED ONE...
 
